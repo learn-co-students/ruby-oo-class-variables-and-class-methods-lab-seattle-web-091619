@@ -13,7 +13,7 @@ In this lab, we'll be dealing with a `Song` class. The `Song` class can produce 
 Song.count
   # => 30
 ```
-
+.inuq
 We need our `Song` class to be able to show us all of the artists of existing songs:
 
 ```ruby
